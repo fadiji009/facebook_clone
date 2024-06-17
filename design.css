@@ -8,3 +8,4 @@
 #form{background: white; width: 30%; height: 350px; border-radius: 5px; margin-right: 20%;}
 #form input{width: 90%; height: 50px; margin-top: 15px; border-radius: 7px; border: 1px solid silver;}
 #form button{width: 50%; height: 50px; background: green; margin-top: 5%; border-radius: 7px; color: white; border: 1px solid silver;}
+#form b{margin-top: 100%;}

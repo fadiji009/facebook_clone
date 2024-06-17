@@ -1,0 +1,10 @@
+*{padding: 0; margin: 0;}
+#overall{background: rgb(240, 235, 235); width: 80%; height: 300px; display: flex; justify-content: space-between; padding: 10%;}
+#part1{background: rgb(240, 236, 236); width: 40%; height: 300px; margin-left: 20%;}
+#part1 img{width: 70%; height: 200px; margin-left: -7%;}
+#part1 h2{margin-top: -15%;}
+
+
+#form{background: white; width: 30%; height: 350px; border-radius: 5px; margin-right: 20%;}
+#form input{width: 90%; height: 50px; margin-top: 15px; border-radius: 7px; border: 1px solid silver;}
+#form button{width: 50%; height: 50px; background: green; margin-top: 5%; border-radius: 7px; color: white; border: 1px solid silver;}
